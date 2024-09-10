@@ -14,7 +14,7 @@ This project aims to provide a simple yet effective tool for stock market invest
 1. Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-repo/StockVision-AI.git
+git clone my githubrepository
 cd StockVision-AI
 2. Install dependencies:
 You'll need to install all the required packages before you get started. Simply run:
